@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-tplrwpkyms46389opqypy-8070n
+    name: google-yfnyz
     env: python
     region: Oregon
     plan: free
